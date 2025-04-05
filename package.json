@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "dependencies": {
+        "@stdlib/array": "^0.3.3",
+        "@stdlib/array-base-linspace": "^0.2.2",
+        "@stdlib/array-linspace": "^0.2.1",
+        "@stdlib/array-zeros": "^0.2.2",
+        "@stdlib/math-base-special-besselj0": "^0.2.2",
+        "@stdlib/math-base-special-beta": "^0.3.0",
+        "@stdlib/math-base-special-erf": "^0.2.4",
+        "@stdlib/math-base-special-gamma": "^0.3.0",
+        "@stdlib/plot": "^0.3.3",
+        "@stdlib/stats-base-max": "^0.2.2",
+        "@stdlib/stats-base-mean": "^0.2.2",
+        "@stdlib/stats-base-min": "^0.2.2",
+        "@stdlib/stats-base-stdev": "^0.2.2",
+        "@stdlib/stdlib": "^0.3.2"
+    }
+}
